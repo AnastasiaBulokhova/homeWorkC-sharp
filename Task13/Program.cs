@@ -31,6 +31,17 @@ else
     System.Console.WriteLine("Нет третьей цифры");
 }
 
+
+
+
+
+
+
+
+
+
+
+
 /*if(num > 999)
 {
     int num2 = num / 10 % 10; //1555 - 155
