@@ -1,0 +1,15 @@
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\bin\Debug\net6.0\Task13.exe
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\bin\Debug\net6.0\Task13.deps.json
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\bin\Debug\net6.0\Task13.dll
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\bin\Debug\net6.0\Task13.pdb
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.dll
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\refint\Task13.dll
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.pdb
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\Task13\obj\Debug\net6.0\ref\Task13.dll
